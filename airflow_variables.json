@@ -3,5 +3,5 @@
 "data_lake_password":"minioadmin",
 "database_server":"172.17.0.2",
 "database_login":"root",
-"database_password":"bootcamp",
+"database_password":"admin",
 "database_name" :"employees"}
